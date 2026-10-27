@@ -1,0 +1,18 @@
+# Personal resume content (start from example.yaml instead)
+master.yaml
+
+# Generated resumes and cover letters
+out/
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Node
+node_modules/
+
+# OS / editor junk
+.DS_Store
+~$*.docx

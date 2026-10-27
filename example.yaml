@@ -1,0 +1,273 @@
+# =====================================================================
+# example.yaml : a starter master file you can copy and make your own
+#
+#   cp example.yaml master.yaml
+#   python models.py master.yaml          # validate after every edit
+#   python selector.py backend            # preview a preset in the terminal
+#   python build.py --preset backend --company "Acme"
+#
+# Everything below is fictional. Replace it section by section.
+#
+# Three ideas run through the whole file:
+#
+#   1. TRACKS are the "kinds of job" you apply for (here: backend, data).
+#      The keys under `headlines:` ARE the list of valid tracks. Every
+#      bullet, skill, cert and course is tagged with the tracks it fits.
+#      A misspelled track fails validation instead of silently vanishing.
+#
+#   2. IDS are lowercase-with-dashes (e.g. shop-checkout) and must be
+#      unique across the WHOLE file. Presets, skill receipts and cover
+#      letters point at things by id.
+#
+#   3. PRESETS are what you actually build. A preset picks a headline,
+#      a summary, which tracks to pull from, and which roles/projects to
+#      show. Nothing appears on a resume until a preset lists it.
+#
+# Dates are always "YYYY-MM" (quotes optional). `end: null` = present.
+# Unknown keys are errors, so a typo like `priorty:` is caught for you.
+# =====================================================================
+
+# ---------------------------------------------------------------------
+# PROFILE : the contact block at the top of every resume and letter.
+# Only name, phone, email and location are required.
+# ---------------------------------------------------------------------
+profile:
+  name: Alex Rivera
+  phone: "(555) 010-0199"          # quote it so YAML keeps it as text
+  email: alex.rivera@example.com
+  location: Denver, CO
+  links:                           # any of these can be left out
+    website: alexrivera.dev
+    linkedin: linkedin.com/in/alexrivera
+    github: github.com/alexrivera
+  languages:                       # optional
+    - { name: English, level: Native }
+    - { name: Portuguese, level: Conversational }
+
+# ---------------------------------------------------------------------
+# HEADLINES : defines your tracks and the title shown under your name.
+# The first title in each list is the default. Add more to mirror a
+# posting's exact title, then pick one with --headline "Exact Title".
+# ---------------------------------------------------------------------
+headlines:
+  backend: ["Backend Engineer", "Software Engineer, Platform"]
+  data: ["Data Engineer", "Analytics Engineer"]
+
+# ---------------------------------------------------------------------
+# SUMMARIES : the 2-3 sentence paragraph at the top. Each preset names
+# exactly one by id. Write one per track (or per flavor of job).
+# ---------------------------------------------------------------------
+summaries:
+  - id: sum-backend-a
+    tracks: [backend]
+    text: "Backend engineer with four years building APIs and payment systems in Python and Go. I like boring, reliable services: good tests, clear dashboards, and on-call nights nobody remembers."
+
+  - id: sum-data-a
+    tracks: [data]
+    text: "Data engineer who started on the backend, so I build pipelines the way I build services: versioned, tested, and monitored. Comfortable from raw event streams to the dashboard a VP reads on Monday."
+
+# ---------------------------------------------------------------------
+# ROLES : your jobs. Newest first reads best, but presets set what shows.
+#
+# Each bullet:
+#   id        unique slug, used by receipts and cover letters
+#   tracks    which kinds of job this bullet supports
+#   tags      keywords; `--boost tag1,tag2` floats matching bullets up
+#   priority  1 = always show, 2 = show if room (default), 3 = filler
+#             (cut first). Can differ per track: { backend: 1, data: 3 }.
+#             Only list tracks the bullet is tagged with.
+#   text      the line itself. Lead with a verb, end with a number.
+#
+# The fit loop never cuts a priority-1 bullet, so use 1 sparingly
+# (2-3 per role) or the resume can't shrink to the page target.
+# ---------------------------------------------------------------------
+roles:
+  - id: shopco
+    company: ShopCo
+    title: Software Engineer II        # the official title HR will confirm
+    display_note: Payments team        # shown as "Title (note)" if the preset allows
+    start: "2023-03"
+    end: null                          # current job
+    bullets:
+      - id: shop-checkout
+        tracks: [backend]
+        tags: [python, postgres, payments]
+        priority: 1
+        text: "Rebuilt the checkout service in Python and Postgres, cutting failed payments 18% across 2M monthly orders"
+
+      - id: shop-queue
+        tracks: [backend, data]
+        tags: [kafka, go]
+        priority: { backend: 1, data: 2 }    # per-track priority
+        text: "Moved order events onto Kafka with a Go consumer, removing a nightly batch job and making refunds near real time"
+
+      - id: shop-dash
+        tracks: [data]
+        tags: [dbt, sql, looker]
+        priority: 1
+        text: "Built the payments revenue model in dbt that finance now uses for month-end close instead of spreadsheets"
+
+      - id: shop-oncall
+        tracks: [backend]
+        tags: [observability, grafana]
+        priority: 3                          # filler: first to go if long
+        text: "Wrote the team's on-call runbook and Grafana alerts, cutting pages per week from 12 to 3"
+
+  - id: localbank
+    company: Local Credit Union
+    title: Junior Developer
+    start: "2021-06"
+    end: "2023-02"
+    bullets:
+      - id: bank-api
+        tracks: [backend]
+        tags: [java, rest]
+        text: "Maintained the member-account REST API in Java, adding the endpoints behind the new mobile app"
+
+      - id: bank-etl
+        tracks: [data]
+        tags: [python, airflow, sql]
+        priority: { data: 1 }                # tracks not in the map default to 2
+        text: "Replaced cron scripts with Airflow DAGs for daily loan reporting, catching three silent data gaps in the first month"
+
+# ---------------------------------------------------------------------
+# PROJECTS : side projects, school work, open source. Same bullet rules
+# as roles. Presets list projects in the order you want them shown, so
+# put your strongest first.
+# ---------------------------------------------------------------------
+projects:
+  - id: proj-tinyq
+    name: tinyq
+    subtitle:                        # optional, per track
+      backend: "Open-source job queue in Go"
+      data: "Lightweight task runner for ETL jobs"
+    start: "2024-01"
+    end: null
+    display_date: "2024"             # optional override for the printed date
+    bullets:
+      - id: tinyq-core
+        tracks: [backend, data]
+        tags: [go, redis]
+        priority: 1
+        text: "Wrote a Redis-backed job queue in Go with retries and dead-letter handling; 400 GitHub stars"
+
+      - id: tinyq-bench
+        tracks: [backend]
+        tags: [performance]
+        priority: 3
+        text: "Benchmarked against Celery and RQ, publishing results and a reproducible harness"
+
+# ---------------------------------------------------------------------
+# SKILLS : grouped by `category` on the page.
+# `receipts` are bullet or project ids that prove the skill. A skill with
+# no receipts still validates but prints a warning, and presets with
+# hide_skills_without_receipts: true leave it off.
+# ---------------------------------------------------------------------
+skills:
+  - { name: Python, category: Languages, tracks: [backend, data], receipts: [shop-checkout, bank-etl] }
+  - { name: Go, category: Languages, tracks: [backend], receipts: [shop-queue, proj-tinyq] }
+  - { name: SQL, category: Languages, tracks: [data], receipts: [shop-dash, bank-etl] }
+  - { name: Postgres, category: "Tools & Platforms", tracks: [backend, data], receipts: [shop-checkout] }
+  - { name: Kafka, category: "Tools & Platforms", tracks: [backend, data], receipts: [shop-queue] }
+  - { name: dbt, category: "Tools & Platforms", tracks: [data], receipts: [shop-dash] }
+  - { name: Airflow, category: "Tools & Platforms", tracks: [data], receipts: [bank-etl] }
+  - { name: Kubernetes, category: "Tools & Platforms", tracks: [backend], receipts: [] }   # no proof yet: warns
+
+# ---------------------------------------------------------------------
+# EDUCATION : coursework is filtered by track like everything else.
+# ---------------------------------------------------------------------
+education:
+  - id: state-u
+    school: State University
+    location: Boulder, CO
+    degree: B.S. Computer Science
+    gpa: 3.5                         # optional, 0-4.0; leave out to hide
+    coursework:
+      - { name: Distributed Systems, tracks: [backend] }
+      - { name: Databases, tracks: [backend, data] }
+      - { name: Statistics, tracks: [data] }
+
+# ---------------------------------------------------------------------
+# CERTS : status is `earned` or `in_progress`.
+# In-progress certs must NOT have a date.
+# ---------------------------------------------------------------------
+certs:
+  - { name: AWS Certified Developer – Associate, status: earned, date: "2024-05", tracks: [backend, data] }
+  - { name: dbt Analytics Engineering, status: in_progress, tracks: [data] }
+
+# ---------------------------------------------------------------------
+# COVER LETTERS (optional; only needed if you use --cover)
+#
+# The preset's headline track picks the letter. Body paragraphs only: the
+# template adds the greeting, the "why this company" paragraph (from
+# --why / --why-file) and the sign-off.
+#
+# {company} and {role} are filled in at build time. Any other
+# {placeholder} fails validation.
+#
+# Each proof paragraph lists `refs` (bullet ids). A paragraph is only
+# used if one of its bullets made it onto THIS resume, so write each one
+# to stand alone. priority 1 = always kept, 3 = first cut if over a page.
+# ---------------------------------------------------------------------
+cover_letters:
+  - id: cl-backend-a
+    tracks: [backend]
+    opener: "I'm applying for the {role} role at {company}. I build backend services that stay up and stay simple, and I'd like to do that for your team."
+    proof:
+      - refs: [shop-checkout, shop-queue]
+        priority: 1
+        text: "At ShopCo I rebuilt our checkout service and moved order events onto Kafka. Failed payments dropped 18%, and refunds that used to wait for a nightly batch now happen in seconds."
+      - refs: [tinyq-core]
+        priority: 2
+        text: "Outside work I maintain tinyq, a small job queue in Go. Keeping an open-source project healthy has taught me to write docs and error messages for people I'll never meet."
+    closer: "I'd welcome the chance to talk about how I could help {company} ship reliable services."
+
+  - id: cl-data-a
+    tracks: [data]
+    opener: "I'm applying for the {role} position at {company}. I came to data engineering from the backend, and I bring the same habits: tests, version control, and alerts before anyone notices a problem."
+    proof:
+      - refs: [shop-dash, bank-etl]
+        priority: 1
+        text: "I built the dbt revenue model our finance team now closes the month on, and earlier replaced fragile cron scripts with Airflow, which surfaced three silent data gaps in the first month."
+    closer: "I'd be glad to talk about the data problems {company} is working on."
+
+# ---------------------------------------------------------------------
+# PRESETS : one per kind of application. This is what --preset picks.
+#
+#   headline        a track key from `headlines` (not a summary id)
+#   headline_variant  optional; one of that track's titles (default: first)
+#   summary         a summary id
+#   tracks          tracks to pull content from; the first is usually the
+#                   headline. Extra tracks are "borrowed": their bullets
+#                   fill space but are demoted one priority step.
+#   sections        which sections appear, in order. Allowed: summary,
+#                   skills, experience, projects, education, certs
+#   roles/projects  ids to include (projects render in this order)
+#   max_bullets_per_role / _project   caps before the fit loop (1-8)
+#   show_display_note   print a role's display_note after its title
+#   hide_skills_without_receipts      drop skills with receipts: []
+#   max_pages       fit-loop target, 1 or 2
+# ---------------------------------------------------------------------
+presets:
+  backend:
+    headline: backend
+    summary: sum-backend-a
+    tracks: [backend, data]
+    sections: [summary, skills, experience, projects, education, certs]
+    roles: [shopco, localbank]
+    projects: [proj-tinyq]
+    show_display_note: true
+    max_bullets_per_role: 3
+    max_bullets_per_project: 2
+    hide_skills_without_receipts: true
+    max_pages: 1
+
+  data:
+    headline: data
+    headline_variant: "Analytics Engineer"
+    summary: sum-data-a
+    tracks: [data]
+    sections: [summary, experience, skills, education, certs]   # no projects
+    roles: [shopco, localbank]
+    max_bullets_per_role: 3
+    max_pages: 1

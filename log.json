@@ -1,0 +1,1980 @@
+[
+  {
+    "timestamp": "2026-09-27T20:41:37",
+    "preset": "devops",
+    "headline": "DevOps & Cloud Engineer",
+    "company": "Acme",
+    "url": "https://jobs.acme.com/123",
+    "boost": [],
+    "pages": 1,
+    "dropped": [
+      "pp-mobile",
+      "java-release",
+      "pp-azure",
+      "transact-dotnet",
+      "carrier-jira",
+      "ess-wordpress",
+      "portfolio-platform"
+    ],
+    "bullets": [
+      "ess-vps",
+      "ess-automation",
+      "carrier-loadtest",
+      "carrier-monitoring",
+      "transact-azure",
+      "transact-network",
+      "n8n-server",
+      "java-4tier",
+      "java-asg",
+      "java-security",
+      "pp-aws",
+      "pp-firmware"
+    ],
+    "files": {
+      "docx": "/Users/cj/Documents/Resume/resume-builder/out/2026-09-27_acme_devops/Chris_Norton_DevOps_Cloud_Engineer_Resume.docx",
+      "pdf": "/Users/cj/Documents/Resume/resume-builder/out/2026-09-27_acme_devops/Chris_Norton_DevOps_Cloud_Engineer_Resume.pdf"
+    },
+    "status": "applied"
+  },
+  {
+    "timestamp": "2026-09-27T20:52:45",
+    "preset": "devops",
+    "headline": "DevOps & Cloud Engineer",
+    "company": "Acme",
+    "url": null,
+    "boost": [],
+    "pages": 2,
+    "dropped": [
+      "pp-mobile",
+      "java-release",
+      "pp-azure",
+      "transact-dotnet",
+      "carrier-jira",
+      "ess-wordpress",
+      "portfolio-platform"
+    ],
+    "bullets": [
+      "ess-vps",
+      "ess-automation",
+      "carrier-loadtest",
+      "carrier-monitoring",
+      "transact-azure",
+      "transact-network",
+      "n8n-server",
+      "java-4tier",
+      "java-asg",
+      "java-security",
+      "pp-aws",
+      "pp-firmware"
+    ],
+    "files": {
+      "docx": "/Users/cj/Documents/Resume/resume-builder/out/2026-09-27_acme_devops-2/Chris_Norton_DevOps_Cloud_Engineer_Resume.docx",
+      "pdf": "/Users/cj/Documents/Resume/resume-builder/out/2026-09-27_acme_devops-2/Chris_Norton_DevOps_Cloud_Engineer_Resume.pdf"
+    },
+    "status": "applied"
+  },
+  {
+    "timestamp": "2026-09-28T15:27:15",
+    "preset": "devops",
+    "headline": "DevOps & Cloud Engineer",
+    "company": "Acme",
+    "url": null,
+    "boost": [],
+    "pages": 1,
+    "dropped": [
+      "java-release",
+      "pp-mobile",
+      "portfolio-platform",
+      "java-security",
+      "pp-azure",
+      "transact-dotnet",
+      "carrier-jira"
+    ],
+    "bullets": [
+      "ess-vps",
+      "ess-automation",
+      "ess-wordpress",
+      "carrier-loadtest",
+      "carrier-monitoring",
+      "transact-azure",
+      "transact-network",
+      "pp-aws",
+      "pp-firmware",
+      "java-4tier",
+      "java-asg",
+      "n8n-server"
+    ],
+    "files": {
+      "docx": "/Users/cj/Documents/Resume/resume-builder/out/2026-09-28_acme_devops/Chris_Norton_DevOps_Cloud_Engineer_Resume.docx",
+      "pdf": "/Users/cj/Documents/Resume/resume-builder/out/2026-09-28_acme_devops/Chris_Norton_DevOps_Cloud_Engineer_Resume.pdf"
+    },
+    "status": "applied"
+  },
+  {
+    "timestamp": "2026-09-28T15:35:02",
+    "preset": "martech",
+    "headline": "Growth Technology Engineer",
+    "company": "Klaviyo",
+    "url": null,
+    "boost": [],
+    "pages": 2,
+    "dropped": [
+      "transact-gtm",
+      "ckm-pipeline",
+      "ckm-competitive",
+      "portfolio-platform",
+      "carrier-jira",
+      "carrier-dataviz",
+      "ess-keyword-research",
+      "ess-infra-godaddy",
+      "ess-email",
+      "transact-wireframes",
+      "tvr-email",
+      "ckm-clickfunnels",
+      "ess-brevo"
+    ],
+    "bullets": [
+      "ess-webdev-lead",
+      "ess-seo-software",
+      "ast-store",
+      "ast-theme",
+      "ast-sub",
+      "salon-liquid-email",
+      "salon-mailchimp",
+      "ckm-engagement",
+      "ckm-automation",
+      "tvr-audit",
+      "tvr-rebuild",
+      "carrier-loadtest",
+      "carrier-sfmc",
+      "carrier-email",
+      "transact-azure",
+      "transact-web",
+      "n8n-server"
+    ],
+    "files": {
+      "docx": "/Users/cj/Documents/Resume/resume-builder/out/2026-09-28_klaviyo_martech/Chris_Norton_Growth_Technology_Engineer_Resume.docx",
+      "pdf": "/Users/cj/Documents/Resume/resume-builder/out/2026-09-28_klaviyo_martech/Chris_Norton_Growth_Technology_Engineer_Resume.pdf"
+    },
+    "status": "applied"
+  },
+  {
+    "timestamp": "2026-09-28T15:35:51",
+    "preset": "embedded",
+    "headline": "Electrical Engineer",
+    "company": "Texas",
+    "url": null,
+    "boost": [],
+    "pages": 2,
+    "dropped": [
+      "hdmi-logic",
+      "hdmi-uart",
+      "pp-team",
+      "pp-azure",
+      "pp-mobile",
+      "pp-reliability",
+      "pk-audit",
+      "transact-dotnet",
+      "transact-arch-review",
+      "transact-embedded-troubleshoot",
+      "carrier-jira",
+      "carrier-dataviz"
+    ],
+    "bullets": [
+      "ess-automation",
+      "ess-webdev-lead",
+      "ess-seo-software",
+      "carrier-loadtest",
+      "carrier-monitoring",
+      "transact-azure",
+      "transact-network",
+      "pp-aws",
+      "pp-firmware",
+      "pp-pcb",
+      "hdmi-pipeline",
+      "pk-design",
+      "pk-encoder"
+    ],
+    "files": {
+      "docx": "/Users/cj/Documents/Resume/resume-builder/out/2026-09-28_texas_embedded/Chris_Norton_Electrical_Engineer_Resume.docx",
+      "pdf": "/Users/cj/Documents/Resume/resume-builder/out/2026-09-28_texas_embedded/Chris_Norton_Electrical_Engineer_Resume.pdf"
+    },
+    "status": "applied"
+  },
+  {
+    "timestamp": "2026-09-29T15:00:07",
+    "preset": "software",
+    "headline": "Software Engineer",
+    "company": "Wordpress",
+    "url": null,
+    "boost": [
+      "api",
+      "graphql",
+      "wordpress"
+    ],
+    "pages": 2,
+    "dropped": [
+      "pk-audit",
+      "roofer-wysiwyg",
+      "transact-dotnet",
+      "transact-arch-review",
+      "transact-embedded-troubleshoot",
+      "carrier-jira",
+      "carrier-dataviz",
+      "ess-wordpress",
+      "dd-data-blog",
+      "mc-features",
+      "pp-mobile",
+      "pp-firmware",
+      "pp-reliability",
+      "pp-team",
+      "pp-azure"
+    ],
+    "bullets": [
+      "ess-webdev-lead",
+      "ess-vps",
+      "ess-automation",
+      "ast-theme",
+      "ast-sub",
+      "carrier-loadtest",
+      "carrier-monitoring",
+      "transact-azure",
+      "transact-network",
+      "nok-backend",
+      "nok-inventory",
+      "nok-shopify",
+      "pp-aws",
+      "pp-pcb",
+      "pp-azure",
+      "mc-platform",
+      "mc-ecc",
+      "roofer-platform",
+      "roofer-sourcing",
+      "dd-teams",
+      "pk-design",
+      "pk-encoder",
+      "hack-app",
+      "hack-ml"
+    ],
+    "files": {
+      "docx": "/Users/cj/Documents/Resume/resume-builder/out/2026-09-29_wordpress_software/Chris_Norton_Software_Engineer_Resume.docx",
+      "pdf": "/Users/cj/Documents/Resume/resume-builder/out/2026-09-29_wordpress_software/Chris_Norton_Software_Engineer_Resume.pdf"
+    },
+    "status": "applied"
+  },
+  {
+    "timestamp": "2026-09-29T15:00:51",
+    "preset": "software",
+    "headline": "Software Engineer",
+    "company": "Wordpress",
+    "url": null,
+    "boost": [
+      "api",
+      "graphql",
+      "wordpress"
+    ],
+    "pages": 2,
+    "dropped": [
+      "pk-audit",
+      "roofer-wysiwyg",
+      "transact-dotnet",
+      "transact-arch-review",
+      "transact-embedded-troubleshoot",
+      "carrier-jira",
+      "carrier-dataviz",
+      "ess-wordpress",
+      "dd-data-blog",
+      "mc-features",
+      "pp-mobile",
+      "pp-firmware",
+      "pp-reliability",
+      "pp-team",
+      "pp-azure"
+    ],
+    "bullets": [
+      "ess-webdev-lead",
+      "ess-vps",
+      "ess-automation",
+      "ast-theme",
+      "ast-sub",
+      "carrier-loadtest",
+      "carrier-monitoring",
+      "transact-azure",
+      "transact-network",
+      "nok-backend",
+      "nok-inventory",
+      "nok-shopify",
+      "pp-aws",
+      "pp-pcb",
+      "pp-azure",
+      "mc-platform",
+      "mc-ecc",
+      "roofer-platform",
+      "roofer-sourcing",
+      "dd-teams",
+      "pk-design",
+      "pk-encoder",
+      "hack-app",
+      "hack-ml"
+    ],
+    "files": {
+      "docx": "/Users/cj/Documents/Resume/resume-builder/out/2026-09-29_wordpress_software-2/Chris_Norton_Software_Engineer_Resume.docx",
+      "pdf": "/Users/cj/Documents/Resume/resume-builder/out/2026-09-29_wordpress_software-2/Chris_Norton_Software_Engineer_Resume.pdf"
+    },
+    "status": "applied"
+  },
+  {
+    "timestamp": "2026-09-29T15:01:52",
+    "preset": "martech",
+    "headline": "Growth Technology Engineer",
+    "company": "Wordpress",
+    "url": null,
+    "boost": [
+      "api",
+      "graphql",
+      "wordpress"
+    ],
+    "pages": 2,
+    "dropped": [
+      "transact-gtm",
+      "ckm-pipeline",
+      "ckm-competitive",
+      "portfolio-platform",
+      "carrier-jira",
+      "carrier-dataviz",
+      "ess-keyword-research",
+      "ess-infra-godaddy",
+      "ess-email",
+      "transact-wireframes",
+      "tvr-email",
+      "ckm-clickfunnels",
+      "ess-brevo"
+    ],
+    "bullets": [
+      "ess-webdev-lead",
+      "ess-seo-software",
+      "ast-store",
+      "ast-theme",
+      "ast-sub",
+      "salon-liquid-email",
+      "salon-mailchimp",
+      "ckm-engagement",
+      "ckm-automation",
+      "tvr-rebuild",
+      "tvr-audit",
+      "carrier-loadtest",
+      "carrier-sfmc",
+      "carrier-email",
+      "transact-azure",
+      "transact-web",
+      "n8n-server"
+    ],
+    "files": {
+      "docx": "/Users/cj/Documents/Resume/resume-builder/out/2026-09-29_wordpress_martech/Chris_Norton_Growth_Technology_Engineer_Resume.docx",
+      "pdf": "/Users/cj/Documents/Resume/resume-builder/out/2026-09-29_wordpress_martech/Chris_Norton_Growth_Technology_Engineer_Resume.pdf"
+    },
+    "status": "applied"
+  },
+  {
+    "timestamp": "2026-09-29T15:40:20",
+    "preset": "martech",
+    "headline": "Growth Technology Engineer",
+    "company": "Tarvant",
+    "url": null,
+    "boost": [
+      "api",
+      "graphql",
+      "wordpress"
+    ],
+    "pages": 2,
+    "dropped": [
+      "transact-gtm",
+      "ckm-pipeline",
+      "ckm-competitive",
+      "portfolio-platform",
+      "carrier-jira",
+      "carrier-dataviz",
+      "ess-keyword-research",
+      "ess-infra-godaddy",
+      "ess-email",
+      "transact-wireframes",
+      "tvr-email",
+      "ckm-clickfunnels",
+      "ess-brevo",
+      "freelance-john-clark",
+      "freelance-travel"
+    ],
+    "bullets": [
+      "freelance-butcher-block",
+      "freelance-travel",
+      "ess-webdev-lead",
+      "ess-seo-software",
+      "ast-store",
+      "ast-theme",
+      "ast-sub",
+      "salon-liquid-email",
+      "salon-mailchimp",
+      "ckm-engagement",
+      "ckm-automation",
+      "tvr-rebuild",
+      "tvr-audit",
+      "carrier-loadtest",
+      "carrier-sfmc",
+      "carrier-email",
+      "transact-azure",
+      "transact-web",
+      "n8n-server"
+    ],
+    "files": {
+      "docx": "/Users/cj/Documents/Resume/resume-builder/out/2026-09-29_tarvant_martech/Chris_Norton_Growth_Technology_Engineer_Resume.docx",
+      "pdf": "/Users/cj/Documents/Resume/resume-builder/out/2026-09-29_tarvant_martech/Chris_Norton_Growth_Technology_Engineer_Resume.pdf"
+    },
+    "status": "applied"
+  },
+  {
+    "timestamp": "2026-09-29T16:16:01",
+    "preset": "martech",
+    "headline": "Web Developer | Email Developer | SEO",
+    "company": "Braze",
+    "url": null,
+    "boost": [
+      "email"
+    ],
+    "pages": 2,
+    "dropped": [
+      "transact-gtm",
+      "ckm-pipeline",
+      "ckm-competitive",
+      "portfolio-platform",
+      "carrier-jira",
+      "carrier-dataviz",
+      "ess-email",
+      "ess-keyword-research",
+      "ess-infra-godaddy",
+      "transact-wireframes",
+      "tvr-email",
+      "ckm-clickfunnels",
+      "ess-brevo",
+      "freelance-john-clark",
+      "freelance-travel"
+    ],
+    "bullets": [
+      "freelance-butcher-block",
+      "freelance-travel",
+      "ess-webdev-lead",
+      "ess-seo-software",
+      "ast-store",
+      "ast-theme",
+      "ast-sub",
+      "salon-liquid-email",
+      "salon-mailchimp",
+      "ckm-engagement",
+      "ckm-automation",
+      "tvr-audit",
+      "tvr-rebuild",
+      "carrier-sfmc",
+      "carrier-email",
+      "carrier-loadtest",
+      "transact-azure",
+      "transact-web",
+      "n8n-server"
+    ],
+    "files": {
+      "docx": "/Users/cj/Documents/Resume/resume-builder/out/2026-09-29_braze_martech/Chris_Norton_Web_Developer_Email_Developer_SEO_Resume.docx",
+      "pdf": "/Users/cj/Documents/Resume/resume-builder/out/2026-09-29_braze_martech/Chris_Norton_Web_Developer_Email_Developer_SEO_Resume.pdf"
+    },
+    "status": "applied"
+  },
+  {
+    "timestamp": "2026-09-30T11:44:48",
+    "preset": "martech",
+    "headline": "Web Developer | Email Developer | SEO",
+    "company": "Braze",
+    "url": null,
+    "boost": [
+      "email"
+    ],
+    "pages": 2,
+    "dropped": [
+      "tvr-email",
+      "salon-liquid-email",
+      "transact-gtm",
+      "portfolio-platform",
+      "carrier-dataviz",
+      "ast-store",
+      "ast-theme",
+      "tvr-rebuild",
+      "tvr-audit",
+      "ckm-clickfunnels",
+      "ckm-pipeline",
+      "ckm-content",
+      "ckm-competitive",
+      "ess-keyword-research",
+      "ess-infra-godaddy"
+    ],
+    "bullets": [
+      "freelance-butcher-block",
+      "freelance-travel",
+      "freelance-john-clark",
+      "ess-webdev-lead",
+      "ess-seo-software",
+      "ess-brevo",
+      "ess-email",
+      "ess-infra-godaddy",
+      "ckm-engagement",
+      "ckm-automation",
+      "salon-mailchimp",
+      "ast-sub",
+      "carrier-sfmc",
+      "carrier-email",
+      "carrier-loadtest",
+      "carrier-jira",
+      "transact-azure",
+      "transact-web",
+      "transact-wireframes",
+      "n8n-server"
+    ],
+    "files": {
+      "docx": "/Users/cj/Documents/Resume/resume-builder/out/2026-09-30_braze_martech/Chris_Norton_Web_Developer_Email_Developer_SEO_Resume.docx",
+      "pdf": "/Users/cj/Documents/Resume/resume-builder/out/2026-09-30_braze_martech/Chris_Norton_Web_Developer_Email_Developer_SEO_Resume.pdf"
+    },
+    "status": "applied"
+  },
+  {
+    "timestamp": "2026-09-30T11:47:41",
+    "preset": "devops",
+    "headline": "DevOps & Cloud Engineer",
+    "company": "AWS",
+    "url": null,
+    "boost": [],
+    "pages": 1,
+    "dropped": [
+      "java-release",
+      "pp-mobile",
+      "portfolio-platform",
+      "java-security",
+      "pp-azure",
+      "transact-dotnet"
+    ],
+    "bullets": [
+      "ess-vps",
+      "ess-automation",
+      "ess-wordpress",
+      "carrier-loadtest",
+      "carrier-monitoring",
+      "carrier-jira",
+      "transact-azure",
+      "transact-network",
+      "pp-aws",
+      "pp-firmware",
+      "java-4tier",
+      "java-asg",
+      "n8n-server"
+    ],
+    "files": {
+      "docx": "/Users/cj/Documents/Resume/resume-builder/out/2026-09-30_aws_devops/Chris_Norton_DevOps_Cloud_Engineer_Resume.docx",
+      "pdf": "/Users/cj/Documents/Resume/resume-builder/out/2026-09-30_aws_devops/Chris_Norton_DevOps_Cloud_Engineer_Resume.pdf"
+    },
+    "status": "applied"
+  },
+  {
+    "timestamp": "2026-09-30T12:10:04",
+    "preset": "devops",
+    "headline": "DevOps & Cloud Engineer",
+    "company": "AWS",
+    "url": null,
+    "boost": [],
+    "pages": 2,
+    "dropped": [
+      "portfolio-platform",
+      "pp-firmware",
+      "pp-azure",
+      "pp-mobile",
+      "hil-tests",
+      "hil-builds"
+    ],
+    "bullets": [
+      "ess-vps",
+      "ess-automation",
+      "carrier-loadtest",
+      "carrier-monitoring",
+      "transact-azure",
+      "transact-network",
+      "hil-pipeline",
+      "java-4tier",
+      "java-asg",
+      "pp-aws",
+      "n8n-server"
+    ],
+    "files": {
+      "docx": "/Users/cj/Documents/Resume/resume-builder/out/2026-09-30_aws_devops/Chris_Norton_DevOps_Cloud_Engineer_Resume.docx",
+      "pdf": "/Users/cj/Documents/Resume/resume-builder/out/2026-09-30_aws_devops/Chris_Norton_DevOps_Cloud_Engineer_Resume.pdf"
+    },
+    "status": "applied"
+  },
+  {
+    "timestamp": "2026-09-30T12:15:04",
+    "preset": "devops",
+    "headline": "DevOps & Cloud Engineer",
+    "company": "AWS",
+    "url": null,
+    "boost": [],
+    "pages": 2,
+    "dropped": [
+      "portfolio-platform",
+      "pp-firmware",
+      "pp-azure",
+      "pp-mobile",
+      "hil-tests",
+      "hil-builds"
+    ],
+    "bullets": [
+      "ess-vps",
+      "ess-automation",
+      "carrier-loadtest",
+      "carrier-monitoring",
+      "transact-azure",
+      "transact-network",
+      "hil-pipeline",
+      "java-4tier",
+      "java-asg",
+      "pp-aws",
+      "n8n-server"
+    ],
+    "files": {
+      "docx": "/Users/cj/Documents/Resume/resume-builder/out/2026-09-30_aws_devops/Chris_Norton_DevOps_Cloud_Engineer_Resume.docx",
+      "pdf": "/Users/cj/Documents/Resume/resume-builder/out/2026-09-30_aws_devops/Chris_Norton_DevOps_Cloud_Engineer_Resume.pdf"
+    },
+    "status": "applied"
+  },
+  {
+    "timestamp": "2026-09-30T12:16:53",
+    "preset": "devops",
+    "headline": "DevOps & Cloud Engineer",
+    "company": "AWS",
+    "url": null,
+    "boost": [],
+    "pages": 2,
+    "dropped": [
+      "portfolio-platform",
+      "pp-firmware",
+      "pp-azure",
+      "pp-mobile",
+      "hil-tests",
+      "hil-builds"
+    ],
+    "bullets": [
+      "ess-vps",
+      "ess-automation",
+      "carrier-loadtest",
+      "carrier-monitoring",
+      "transact-azure",
+      "transact-network",
+      "hil-pipeline",
+      "java-4tier",
+      "java-asg",
+      "pp-aws",
+      "n8n-server"
+    ],
+    "files": {
+      "docx": "/Users/cj/Documents/Resume/resume-builder/out/2026-09-30_aws_devops/Chris_Norton_DevOps_Cloud_Engineer_Resume.docx",
+      "pdf": "/Users/cj/Documents/Resume/resume-builder/out/2026-09-30_aws_devops/Chris_Norton_DevOps_Cloud_Engineer_Resume.pdf"
+    },
+    "status": "applied"
+  },
+  {
+    "timestamp": "2026-09-30T12:22:58",
+    "preset": "devops",
+    "headline": "DevOps & Cloud Engineer",
+    "company": "AWS",
+    "url": null,
+    "boost": [],
+    "pages": 2,
+    "dropped": [
+      "portfolio-platform",
+      "pp-firmware",
+      "pp-azure",
+      "pp-mobile",
+      "hil-tests",
+      "hil-builds"
+    ],
+    "bullets": [
+      "ess-vps",
+      "ess-automation",
+      "carrier-loadtest",
+      "carrier-monitoring",
+      "transact-azure",
+      "transact-network",
+      "hil-pipeline",
+      "java-4tier",
+      "java-asg",
+      "pp-aws",
+      "n8n-server"
+    ],
+    "files": {
+      "docx": "/Users/cj/Documents/Resume/resume-builder/out/2026-09-30_aws_devops/Chris_Norton_DevOps_Cloud_Engineer_Resume.docx",
+      "pdf": "/Users/cj/Documents/Resume/resume-builder/out/2026-09-30_aws_devops/Chris_Norton_DevOps_Cloud_Engineer_Resume.pdf"
+    },
+    "status": "applied"
+  },
+  {
+    "timestamp": "2026-09-30T14:42:54",
+    "preset": "systems",
+    "headline": "Systems / Integration Engineer",
+    "company": "LakeLand",
+    "url": null,
+    "boost": [
+      "api",
+      "automation",
+      "hubspot",
+      "mysql",
+      "saleforce"
+    ],
+    "pages": 1,
+    "dropped": [
+      "portfolio-platform",
+      "pp-azure",
+      "pp-mobile",
+      "pp-firmware",
+      "java-asg",
+      "java-security",
+      "java-release",
+      "transact-network",
+      "transact-dotnet"
+    ],
+    "bullets": [
+      "ess-automation",
+      "ess-vps",
+      "tvr-rebuild",
+      "carrier-loadtest",
+      "carrier-monitoring",
+      "transact-azure",
+      "java-4tier",
+      "pp-aws",
+      "n8n-server"
+    ],
+    "files": {
+      "docx": "/Users/cj/Documents/Resume/resume-builder/out/2026-09-30_lakeland_systems/Chris_Norton_Systems_Integration_Engineer_Resume.docx",
+      "pdf": "/Users/cj/Documents/Resume/resume-builder/out/2026-09-30_lakeland_systems/Chris_Norton_Systems_Integration_Engineer_Resume.pdf"
+    },
+    "status": "applied"
+  },
+  {
+    "timestamp": "2026-09-30T14:48:09",
+    "preset": "systems",
+    "headline": "Systems / Integration Engineer",
+    "company": "LakeLand",
+    "url": null,
+    "boost": [
+      "api",
+      "automation",
+      "hubspot",
+      "mysql",
+      "saleforce"
+    ],
+    "pages": 2,
+    "dropped": [],
+    "bullets": [
+      "ess-automation",
+      "ess-vps",
+      "ess-wordpress",
+      "tvr-rebuild",
+      "carrier-loadtest",
+      "carrier-monitoring",
+      "carrier-jira",
+      "transact-azure",
+      "transact-network",
+      "transact-dotnet",
+      "java-4tier",
+      "java-asg",
+      "pp-aws",
+      "pp-azure",
+      "n8n-server",
+      "portfolio-platform"
+    ],
+    "files": {
+      "docx": "/Users/cj/Documents/Resume/resume-builder/out/2026-09-30_lakeland_systems/Chris_Norton_Systems_Integration_Engineer_Resume.docx",
+      "pdf": "/Users/cj/Documents/Resume/resume-builder/out/2026-09-30_lakeland_systems/Chris_Norton_Systems_Integration_Engineer_Resume.pdf"
+    },
+    "status": "applied"
+  },
+  {
+    "timestamp": "2026-09-30T14:51:48",
+    "preset": "systems",
+    "headline": "Systems / Integration Engineer",
+    "company": "LakeLand",
+    "url": null,
+    "boost": [
+      "api",
+      "automation",
+      "hubspot",
+      "mysql",
+      "saleforce"
+    ],
+    "pages": 2,
+    "dropped": [],
+    "bullets": [
+      "ess-automation",
+      "ess-vps",
+      "ess-wordpress",
+      "tvr-rebuild",
+      "carrier-sfmc",
+      "carrier-loadtest",
+      "carrier-monitoring",
+      "transact-azure",
+      "transact-network",
+      "transact-dotnet",
+      "java-4tier",
+      "java-asg",
+      "pp-aws",
+      "pp-azure",
+      "n8n-server",
+      "portfolio-platform"
+    ],
+    "files": {
+      "docx": "/Users/cj/Documents/Resume/resume-builder/out/2026-09-30_lakeland_systems/Chris_Norton_Systems_Integration_Engineer_Resume.docx",
+      "pdf": "/Users/cj/Documents/Resume/resume-builder/out/2026-09-30_lakeland_systems/Chris_Norton_Systems_Integration_Engineer_Resume.pdf"
+    },
+    "status": "applied"
+  },
+  {
+    "timestamp": "2026-09-30T14:53:01",
+    "preset": "systems",
+    "headline": "Systems / Integration Engineer",
+    "company": "LakeLand",
+    "url": null,
+    "boost": [
+      "api",
+      "automation",
+      "hubspot",
+      "mysql",
+      "saleforce"
+    ],
+    "pages": 2,
+    "dropped": [],
+    "bullets": [
+      "ess-automation",
+      "ess-vps",
+      "ess-wordpress",
+      "tvr-rebuild",
+      "carrier-sfmc",
+      "carrier-loadtest",
+      "carrier-monitoring",
+      "transact-azure",
+      "transact-network",
+      "transact-dotnet",
+      "java-4tier",
+      "java-asg",
+      "pp-aws",
+      "pp-azure",
+      "n8n-server",
+      "portfolio-platform"
+    ],
+    "files": {
+      "docx": "/Users/cj/Documents/Resume/resume-builder/out/2026-09-30_lakeland_systems/Chris_Norton_Systems_Integration_Engineer_Resume.docx",
+      "pdf": "/Users/cj/Documents/Resume/resume-builder/out/2026-09-30_lakeland_systems/Chris_Norton_Systems_Integration_Engineer_Resume.pdf"
+    },
+    "status": "applied"
+  },
+  {
+    "timestamp": "2026-09-30T14:54:33",
+    "preset": "systems",
+    "headline": "Systems / Integration Engineer",
+    "company": "LakeLand",
+    "url": null,
+    "boost": [
+      "api",
+      "automation",
+      "hubspot",
+      "mysql",
+      "saleforce"
+    ],
+    "pages": 2,
+    "dropped": [],
+    "bullets": [
+      "ess-automation",
+      "ess-vps",
+      "ess-wordpress",
+      "tvr-rebuild",
+      "carrier-sfmc",
+      "carrier-loadtest",
+      "carrier-monitoring",
+      "transact-azure",
+      "transact-network",
+      "transact-dotnet",
+      "java-4tier",
+      "java-asg",
+      "pp-aws",
+      "pp-azure",
+      "n8n-server",
+      "portfolio-platform"
+    ],
+    "files": {
+      "docx": "/Users/cj/Documents/Resume/resume-builder/out/2026-09-30_lakeland_systems/Chris_Norton_Systems_Integration_Engineer_Resume.docx",
+      "pdf": "/Users/cj/Documents/Resume/resume-builder/out/2026-09-30_lakeland_systems/Chris_Norton_Systems_Integration_Engineer_Resume.pdf"
+    },
+    "status": "applied"
+  },
+  {
+    "timestamp": "2026-09-30T15:04:58",
+    "preset": "systems",
+    "headline": "Systems / Integration Engineer",
+    "company": "LakeLand",
+    "url": null,
+    "boost": [
+      "api",
+      "automation",
+      "hubspot",
+      "mysql",
+      "saleforce"
+    ],
+    "pages": 2,
+    "dropped": [],
+    "bullets": [
+      "ess-automation",
+      "ess-webdev-lead",
+      "ess-vps",
+      "tvr-rebuild",
+      "nyl-sf-automation",
+      "carrier-sfmc",
+      "carrier-loadtest",
+      "carrier-monitoring",
+      "transact-azure",
+      "transact-network",
+      "transact-dotnet",
+      "java-4tier",
+      "java-asg",
+      "pp-aws",
+      "pp-azure",
+      "n8n-server",
+      "portfolio-platform",
+      "fga-integration",
+      "fga-model"
+    ],
+    "files": {
+      "docx": "/Users/cj/Documents/Resume/resume-builder/out/2026-09-30_lakeland_systems/Chris_Norton_Systems_Integration_Engineer_Resume.docx",
+      "pdf": "/Users/cj/Documents/Resume/resume-builder/out/2026-09-30_lakeland_systems/Chris_Norton_Systems_Integration_Engineer_Resume.pdf"
+    },
+    "status": "applied"
+  },
+  {
+    "timestamp": "2026-09-30T15:05:58",
+    "preset": "systems",
+    "headline": "Systems / Integration Engineer",
+    "company": "LakeLand",
+    "url": null,
+    "boost": [
+      "api",
+      "automation",
+      "hubspot",
+      "mysql",
+      "salesforce"
+    ],
+    "pages": 2,
+    "dropped": [],
+    "bullets": [
+      "ess-automation",
+      "ess-webdev-lead",
+      "ess-vps",
+      "tvr-rebuild",
+      "nyl-sf-automation",
+      "carrier-sfmc",
+      "carrier-loadtest",
+      "carrier-monitoring",
+      "transact-azure",
+      "transact-network",
+      "transact-dotnet",
+      "java-4tier",
+      "java-asg",
+      "pp-aws",
+      "pp-azure",
+      "n8n-server",
+      "portfolio-platform",
+      "fga-integration",
+      "fga-model"
+    ],
+    "files": {
+      "docx": "/Users/cj/Documents/Resume/resume-builder/out/2026-09-30_lakeland_systems/Chris_Norton_Systems_Integration_Engineer_Resume.docx",
+      "pdf": "/Users/cj/Documents/Resume/resume-builder/out/2026-09-30_lakeland_systems/Chris_Norton_Systems_Integration_Engineer_Resume.pdf"
+    },
+    "status": "applied"
+  },
+  {
+    "timestamp": "2026-09-30T15:11:25",
+    "preset": "systems",
+    "headline": "Systems / Integration Engineer",
+    "company": "LakeLand",
+    "url": null,
+    "boost": [
+      "api",
+      "automation",
+      "hubspot",
+      "mysql",
+      "salesforce"
+    ],
+    "pages": 2,
+    "dropped": [],
+    "bullets": [
+      "ess-automation",
+      "ess-webdev-lead",
+      "ess-vps",
+      "tvr-rebuild",
+      "nyl-sf-automation",
+      "carrier-sfmc",
+      "carrier-loadtest",
+      "carrier-monitoring",
+      "transact-azure",
+      "transact-network",
+      "transact-dotnet",
+      "java-4tier",
+      "java-asg",
+      "pp-aws",
+      "pp-azure",
+      "n8n-server",
+      "portfolio-platform",
+      "fga-integration",
+      "fga-model"
+    ],
+    "files": {
+      "docx": "/Users/cj/Documents/Resume/resume-builder/out/2026-09-30_lakeland_systems-2/Chris_Norton_Systems_Integration_Engineer_Resume.docx",
+      "pdf": "/Users/cj/Documents/Resume/resume-builder/out/2026-09-30_lakeland_systems-2/Chris_Norton_Systems_Integration_Engineer_Resume.pdf"
+    },
+    "status": "applied"
+  },
+  {
+    "timestamp": "2026-09-30T15:14:33",
+    "preset": "systems",
+    "headline": "Systems / Integration Engineer",
+    "company": "LakeLand",
+    "url": null,
+    "boost": [
+      "api",
+      "automation",
+      "hubspot",
+      "mysql",
+      "salesforce"
+    ],
+    "pages": 2,
+    "dropped": [],
+    "bullets": [
+      "ess-automation",
+      "ess-webdev-lead",
+      "nyl-sf-automation",
+      "carrier-sfmc",
+      "carrier-jira",
+      "java-asg",
+      "java-security",
+      "pp-aws",
+      "pp-azure",
+      "n8n-server",
+      "fga-integration",
+      "fga-model"
+    ],
+    "files": {
+      "docx": "/Users/cj/Documents/Resume/resume-builder/out/2026-09-30_lakeland_systems/Chris_Norton_Systems_Integration_Engineer_Resume.docx",
+      "pdf": "/Users/cj/Documents/Resume/resume-builder/out/2026-09-30_lakeland_systems/Chris_Norton_Systems_Integration_Engineer_Resume.pdf"
+    },
+    "status": "applied"
+  },
+  {
+    "timestamp": "2026-09-30T15:22:59",
+    "preset": "systems",
+    "headline": "Systems / Integration Engineer",
+    "company": "LakeLand",
+    "url": null,
+    "boost": [
+      "api",
+      "automation",
+      "hubspot",
+      "mysql",
+      "salesforce"
+    ],
+    "pages": 2,
+    "dropped": [],
+    "bullets": [
+      "freelance-travel",
+      "ess-automation",
+      "ess-webdev-lead",
+      "nyl-sf-automation",
+      "carrier-sfmc",
+      "carrier-jira",
+      "transact-web",
+      "java-asg",
+      "java-security",
+      "pp-aws",
+      "pp-azure",
+      "n8n-server",
+      "fga-integration",
+      "fga-model"
+    ],
+    "files": {
+      "docx": "/Users/cj/Documents/Resume/resume-builder/out/2026-09-30_lakeland_systems/Chris_Norton_Systems_Integration_Engineer_Resume.docx",
+      "pdf": "/Users/cj/Documents/Resume/resume-builder/out/2026-09-30_lakeland_systems/Chris_Norton_Systems_Integration_Engineer_Resume.pdf"
+    },
+    "status": "applied"
+  },
+  {
+    "timestamp": "2026-09-30T15:25:12",
+    "preset": "systems",
+    "headline": "Systems / Integration Engineer",
+    "company": "LakeLand",
+    "url": null,
+    "boost": [
+      "api",
+      "automation",
+      "hubspot",
+      "mysql",
+      "salesforce"
+    ],
+    "pages": 2,
+    "dropped": [],
+    "bullets": [
+      "freelance-travel",
+      "ess-automation",
+      "ess-webdev-lead",
+      "nyl-sf-automation",
+      "carrier-sfmc",
+      "carrier-jira",
+      "transact-web",
+      "java-asg",
+      "java-security",
+      "pp-aws",
+      "pp-azure",
+      "n8n-server",
+      "fga-integration",
+      "fga-model"
+    ],
+    "files": {
+      "docx": "/Users/cj/Documents/Resume/resume-builder/out/2026-09-30_lakeland_systems-2/Chris_Norton_Systems_Integration_Engineer_Resume.docx",
+      "pdf": "/Users/cj/Documents/Resume/resume-builder/out/2026-09-30_lakeland_systems-2/Chris_Norton_Systems_Integration_Engineer_Resume.pdf"
+    },
+    "status": "applied"
+  },
+  {
+    "timestamp": "2026-09-30T17:21:16",
+    "preset": "devops",
+    "headline": "DevOps & Cloud Engineer",
+    "company": "vector",
+    "url": null,
+    "boost": [
+      "security"
+    ],
+    "pages": 2,
+    "dropped": [
+      "portfolio-platform",
+      "fga-integration",
+      "fga-deploy",
+      "pp-firmware",
+      "pp-azure",
+      "pp-mobile",
+      "hil-tests",
+      "hil-builds"
+    ],
+    "bullets": [
+      "freelance-travel",
+      "ess-vps",
+      "ess-automation",
+      "carrier-loadtest",
+      "carrier-monitoring",
+      "transact-azure",
+      "transact-network",
+      "hil-pipeline",
+      "java-4tier",
+      "java-asg",
+      "pp-aws",
+      "n8n-server",
+      "fga-model"
+    ],
+    "files": {
+      "docx": "/Users/cj/Documents/Resume/resume-builder/out/2026-09-30_vector_devops/Chris_Norton_DevOps_Cloud_Engineer_Resume.docx",
+      "pdf": "/Users/cj/Documents/Resume/resume-builder/out/2026-09-30_vector_devops/Chris_Norton_DevOps_Cloud_Engineer_Resume.pdf"
+    },
+    "status": "applied"
+  },
+  {
+    "timestamp": "2026-10-01T14:48:01",
+    "preset": "software",
+    "headline": "Software Engineer",
+    "company": "BIT",
+    "url": null,
+    "boost": [
+      "python"
+    ],
+    "pages": 2,
+    "dropped": [
+      "pk-audit",
+      "roofer-wysiwyg",
+      "transact-dotnet",
+      "transact-arch-review",
+      "transact-embedded-troubleshoot",
+      "carrier-jira",
+      "carrier-dataviz",
+      "dd-data-blog",
+      "mc-features",
+      "pp-mobile",
+      "pp-firmware",
+      "pp-reliability",
+      "pp-team",
+      "pp-azure",
+      "nok-shopify"
+    ],
+    "bullets": [
+      "ess-webdev-lead",
+      "ess-automation",
+      "ess-vps",
+      "ast-theme",
+      "tvr-rebuild",
+      "carrier-loadtest",
+      "carrier-monitoring",
+      "transact-azure",
+      "transact-network",
+      "nok-backend",
+      "nok-inventory",
+      "nok-shopify",
+      "pp-aws",
+      "pp-pcb",
+      "mc-platform",
+      "mc-ecc",
+      "roofer-platform",
+      "roofer-sourcing",
+      "dd-teams",
+      "pk-design",
+      "pk-encoder",
+      "hack-app",
+      "hack-ml"
+    ],
+    "files": {
+      "docx": "/Users/cj/Documents/Resume/resume-builder/out/2026-10-01_bit_software/Chris_Norton_Software_Engineer_Resume.docx",
+      "pdf": "/Users/cj/Documents/Resume/resume-builder/out/2026-10-01_bit_software/Chris_Norton_Software_Engineer_Resume.pdf"
+    },
+    "status": "applied"
+  },
+  {
+    "timestamp": "2026-10-01T14:49:57",
+    "preset": "software",
+    "headline": "Software Engineer",
+    "company": "BIT",
+    "url": null,
+    "boost": [
+      "python"
+    ],
+    "pages": 2,
+    "dropped": [
+      "pk-audit",
+      "roofer-wysiwyg",
+      "transact-dotnet",
+      "transact-arch-review",
+      "transact-embedded-troubleshoot",
+      "carrier-jira",
+      "carrier-dataviz",
+      "dd-data-blog",
+      "mc-features",
+      "pp-mobile",
+      "pp-firmware",
+      "pp-reliability",
+      "pp-team",
+      "pp-azure",
+      "nok-shopify"
+    ],
+    "bullets": [
+      "ess-webdev-lead",
+      "ess-automation",
+      "ess-vps",
+      "carrier-loadtest",
+      "carrier-monitoring",
+      "transact-azure",
+      "transact-network",
+      "nok-backend",
+      "nok-inventory",
+      "nok-shopify",
+      "pp-aws",
+      "pp-pcb",
+      "mc-platform",
+      "mc-ecc",
+      "roofer-platform",
+      "roofer-sourcing",
+      "dd-teams",
+      "pk-design",
+      "pk-encoder",
+      "hack-app",
+      "hack-ml"
+    ],
+    "files": {
+      "docx": "/Users/cj/Documents/Resume/resume-builder/out/2026-10-01_bit_software/Chris_Norton_Software_Engineer_Resume.docx",
+      "pdf": "/Users/cj/Documents/Resume/resume-builder/out/2026-10-01_bit_software/Chris_Norton_Software_Engineer_Resume.pdf"
+    },
+    "status": "applied"
+  },
+  {
+    "timestamp": "2026-10-01T14:51:09",
+    "preset": "software",
+    "headline": "Software Engineer",
+    "company": "BIT",
+    "url": null,
+    "boost": [
+      "python"
+    ],
+    "pages": 2,
+    "dropped": [
+      "pk-audit",
+      "roofer-wysiwyg",
+      "transact-dotnet",
+      "transact-arch-review",
+      "transact-embedded-troubleshoot",
+      "carrier-jira",
+      "carrier-dataviz",
+      "dd-data-blog",
+      "mc-features",
+      "pp-mobile",
+      "pp-firmware",
+      "pp-reliability",
+      "pp-team",
+      "pp-azure",
+      "nok-shopify"
+    ],
+    "bullets": [
+      "ess-webdev-lead",
+      "ess-automation",
+      "ess-vps",
+      "ast-theme",
+      "tvr-rebuild",
+      "carrier-loadtest",
+      "carrier-monitoring",
+      "transact-azure",
+      "transact-network",
+      "nok-backend",
+      "nok-inventory",
+      "nok-shopify",
+      "pp-aws",
+      "pp-pcb",
+      "mc-platform",
+      "mc-ecc",
+      "roofer-platform",
+      "roofer-sourcing",
+      "dd-teams",
+      "pk-design",
+      "pk-encoder",
+      "hack-app",
+      "hack-ml"
+    ],
+    "files": {
+      "docx": "/Users/cj/Documents/Resume/resume-builder/out/2026-10-01_bit_software/Chris_Norton_Software_Engineer_Resume.docx",
+      "pdf": "/Users/cj/Documents/Resume/resume-builder/out/2026-10-01_bit_software/Chris_Norton_Software_Engineer_Resume.pdf"
+    },
+    "status": "applied"
+  },
+  {
+    "timestamp": "2026-10-01T14:55:33",
+    "preset": "software",
+    "headline": "Software Engineer",
+    "company": "BIT",
+    "url": null,
+    "boost": [
+      "python"
+    ],
+    "pages": 2,
+    "dropped": [
+      "pk-audit",
+      "roofer-wysiwyg",
+      "transact-dotnet",
+      "transact-arch-review",
+      "transact-embedded-troubleshoot",
+      "carrier-jira",
+      "carrier-dataviz",
+      "dd-data-blog",
+      "mc-features",
+      "pp-mobile",
+      "pp-firmware",
+      "pp-reliability",
+      "pp-team",
+      "pp-azure",
+      "nok-shopify"
+    ],
+    "bullets": [
+      "ess-webdev-lead",
+      "ess-automation",
+      "ess-vps",
+      "ast-theme",
+      "tvr-rebuild",
+      "carrier-loadtest",
+      "carrier-monitoring",
+      "transact-azure",
+      "transact-network",
+      "nok-backend",
+      "nok-inventory",
+      "nok-shopify",
+      "pp-aws",
+      "pp-pcb",
+      "mc-platform",
+      "mc-ecc",
+      "roofer-platform",
+      "roofer-sourcing",
+      "dd-teams",
+      "pk-design",
+      "pk-encoder",
+      "hack-app",
+      "hack-ml"
+    ],
+    "files": {
+      "docx": "/Users/cj/Documents/Resume/resume-builder/out/2026-10-01_bit_software/Chris_Norton_Software_Engineer_Resume.docx",
+      "pdf": "/Users/cj/Documents/Resume/resume-builder/out/2026-10-01_bit_software/Chris_Norton_Software_Engineer_Resume.pdf"
+    },
+    "status": "applied"
+  },
+  {
+    "timestamp": "2026-10-02T09:01:37",
+    "preset": "embedded",
+    "headline": "Electrical Engineer",
+    "company": "Research",
+    "url": null,
+    "boost": [],
+    "pages": 2,
+    "dropped": [
+      "hil-builds",
+      "hdmi-logic",
+      "hdmi-uart",
+      "pp-team",
+      "pp-azure",
+      "pp-mobile",
+      "pp-reliability",
+      "pk-audit",
+      "transact-dotnet",
+      "transact-arch-review",
+      "transact-embedded-troubleshoot",
+      "carrier-dataviz",
+      "carrier-jira",
+      "ess-infra-godaddy"
+    ],
+    "bullets": [
+      "ess-automation",
+      "ess-seo-software",
+      "carrier-loadtest",
+      "carrier-monitoring",
+      "transact-azure",
+      "transact-network",
+      "pp-aws",
+      "pp-firmware",
+      "pp-pcb",
+      "hdmi-pipeline",
+      "hil-pipeline",
+      "hil-tests",
+      "pk-design",
+      "pk-encoder"
+    ],
+    "files": {
+      "docx": "/Users/cj/Documents/Resume/resume-builder/out/2026-10-02_research_embedded/Chris_Norton_Electrical_Engineer_Resume.docx",
+      "pdf": "/Users/cj/Documents/Resume/resume-builder/out/2026-10-02_research_embedded/Chris_Norton_Electrical_Engineer_Resume.pdf"
+    },
+    "status": "applied"
+  },
+  {
+    "timestamp": "2026-10-02T09:55:21",
+    "preset": "software",
+    "headline": "Software Engineer",
+    "company": "Jovian",
+    "url": null,
+    "boost": [
+      "aws",
+      "python"
+    ],
+    "pages": 2,
+    "dropped": [
+      "pk-audit",
+      "roofer-wysiwyg",
+      "transact-dotnet",
+      "transact-arch-review",
+      "transact-embedded-troubleshoot",
+      "carrier-dataviz",
+      "carrier-jira",
+      "dd-data-blog",
+      "mc-features",
+      "pp-pcb",
+      "pp-firmware",
+      "pp-reliability",
+      "pp-team",
+      "pp-azure",
+      "nok-shopify"
+    ],
+    "bullets": [
+      "ess-webdev-lead",
+      "ess-automation",
+      "ess-vps",
+      "ast-theme",
+      "tvr-rebuild",
+      "carrier-loadtest",
+      "carrier-monitoring",
+      "transact-azure",
+      "transact-network",
+      "nok-backend",
+      "nok-inventory",
+      "nok-shopify",
+      "pp-aws",
+      "pp-mobile",
+      "mc-platform",
+      "mc-ecc",
+      "roofer-platform",
+      "roofer-sourcing",
+      "dd-teams",
+      "pk-design",
+      "pk-encoder",
+      "hack-app",
+      "hack-ml"
+    ],
+    "files": {
+      "docx": "/Users/cj/Documents/Resume/resume-builder/out/2026-10-02_jovian_software/Chris_Norton_Software_Engineer_Resume.docx",
+      "pdf": "/Users/cj/Documents/Resume/resume-builder/out/2026-10-02_jovian_software/Chris_Norton_Software_Engineer_Resume.pdf"
+    },
+    "status": "applied"
+  },
+  {
+    "timestamp": "2026-10-03T11:10:00",
+    "preset": "martech",
+    "headline": "Data Analyst",
+    "company": "Calibrate",
+    "url": "https://www.indeed.com/viewjob?jk=4a6df13252c12605&tk=1k40u6okfi3ms801&from=jobi2a_jobmatch-reactivation-en-US_email&rjptk=1k40u6notlqjr805&xpse=SoBm67I2dBI4Wty6yp0LbzkdCdPP&xfps=4ee8e389-01d0-4c3b-9a58-63ec1530282c&xkcb=SoCo67M2dA0UkshRIr0IbzkdCdPP",
+    "boost": [
+      "excel",
+      "mysql",
+      "powerbi",
+      "python",
+      "sql",
+      "tableau"
+    ],
+    "pages": 2,
+    "dropped": [],
+    "bullets": [
+      "freelance-butcher-block",
+      "freelance-travel",
+      "freelance-john-clark",
+      "ess-webdev-lead",
+      "ess-seo-software",
+      "ess-brevo",
+      "ess-keyword-research",
+      "ess-infra-godaddy",
+      "ckm-engagement",
+      "ckm-automation",
+      "ast-sub",
+      "salon-mailchimp",
+      "ast-store",
+      "carrier-sfmc",
+      "carrier-loadtest",
+      "carrier-email",
+      "carrier-dataviz",
+      "carrier-jira",
+      "transact-web",
+      "transact-azure",
+      "transact-wireframes",
+      "transact-gtm",
+      "n8n-server",
+      "portfolio-platform",
+      "realestate-dashboard",
+      "realestate-analytics",
+      "marketing-dashboard",
+      "marketing-analytics"
+    ],
+    "files": {
+      "docx": "/Users/cj/Documents/Resume/resume-builder/out/2026-10-03_calibrate_martech-2/Chris_Norton_Data_Analyst_Resume.docx",
+      "pdf": "/Users/cj/Documents/Resume/resume-builder/out/2026-10-03_calibrate_martech-2/Chris_Norton_Data_Analyst_Resume.pdf"
+    },
+    "cover": {
+      "letter": "cl-martech-a",
+      "role": "Data Analyst",
+      "proof": [
+        [
+          "ckm-engagement",
+          "ckm-automation"
+        ],
+        [
+          "carrier-email",
+          "carrier-sfmc"
+        ],
+        [
+          "ess-seo-software",
+          "ess-keyword-research",
+          "ess-webdev-lead"
+        ],
+        [
+          "ast-sub",
+          "ast-store"
+        ]
+      ],
+      "why": "I am a huge advocate for health and wellness. I saw the video on your website and I thought this would be a great chance for me to apply my skills to something that can help others achieve their goals and helping to build a healthier America.",
+      "files": {
+        "docx": "/Users/cj/Documents/Resume/resume-builder/out/2026-10-03_calibrate_martech-2/Chris_Norton_Data_Analyst_Cover_Letter.docx",
+        "pdf": "/Users/cj/Documents/Resume/resume-builder/out/2026-10-03_calibrate_martech-2/Chris_Norton_Data_Analyst_Cover_Letter.pdf"
+      }
+    },
+    "status": "applied"
+  },
+  {
+    "timestamp": "2026-10-06T22:57:13",
+    "preset": "systems",
+    "headline": "Data Analyst",
+    "company": "Koniag",
+    "url": null,
+    "boost": [],
+    "pages": 2,
+    "dropped": [],
+    "bullets": [
+      "freelance-travel",
+      "ess-automation",
+      "ess-webdev-lead",
+      "nyl-sf-automation",
+      "carrier-sfmc",
+      "carrier-loadtest",
+      "carrier-monitoring",
+      "transact-web",
+      "java-asg",
+      "java-security",
+      "pp-aws",
+      "pp-azure",
+      "n8n-server",
+      "fga-model",
+      "fga-integration",
+      "realestate-dashboard",
+      "realestate-analytics",
+      "marketing-dashboard",
+      "marketing-analytics"
+    ],
+    "files": {
+      "docx": "/Users/cj/Documents/Resume/resume-builder/out/2026-10-06_koniag_systems/Chris_Norton_Data_Analyst_Resume.docx",
+      "pdf": "/Users/cj/Documents/Resume/resume-builder/out/2026-10-06_koniag_systems/Chris_Norton_Data_Analyst_Resume.pdf"
+    },
+    "cover": {
+      "letter": "cl-systems-a",
+      "role": "Service Desk Analyst",
+      "proof": [
+        [
+          "carrier-sfmc",
+          "nyl-sf-automation"
+        ],
+        [
+          "n8n-server",
+          "ess-automation"
+        ],
+        [
+          "carrier-loadtest",
+          "carrier-monitoring",
+          "carrier-dataviz"
+        ],
+        [
+          "pp-aws",
+          "doomscroll-infra",
+          "doomscroll-oidc",
+          "doomscroll-cicd"
+        ]
+      ],
+      "why": "I like how you guys seem to be involved in different industries. Things like government and land preservation. I also thought the Alaskan native roots was pretty cool.",
+      "files": {
+        "docx": "/Users/cj/Documents/Resume/resume-builder/out/2026-10-06_koniag_systems/Chris_Norton_Data_Analyst_Cover_Letter.docx",
+        "pdf": "/Users/cj/Documents/Resume/resume-builder/out/2026-10-06_koniag_systems/Chris_Norton_Data_Analyst_Cover_Letter.pdf"
+      }
+    },
+    "status": "applied"
+  },
+  {
+    "timestamp": "2026-10-07T13:31:57",
+    "preset": "systems",
+    "headline": "Systems / Integration Engineer",
+    "company": "HII Mission Technologies",
+    "url": "https://www.clearancejobs.com/jobs/9219966/it-desktop-systems-admin-systems-administrator-1-30319?source=job_search",
+    "boost": [],
+    "pages": 2,
+    "dropped": [],
+    "bullets": [
+      "freelance-travel",
+      "ess-automation",
+      "ess-webdev-lead",
+      "nyl-sf-automation",
+      "carrier-sfmc",
+      "carrier-loadtest",
+      "carrier-monitoring",
+      "transact-web",
+      "java-asg",
+      "java-security",
+      "pp-aws",
+      "pp-azure",
+      "n8n-server",
+      "fga-model",
+      "fga-integration",
+      "realestate-dashboard",
+      "realestate-analytics",
+      "marketing-dashboard",
+      "marketing-analytics"
+    ],
+    "files": {
+      "docx": "/Users/cj/Documents/Resume/resume-builder/out/2026-10-07_hii-mission-technologies_systems/Chris_Norton_Systems_Integration_Engineer_Resume.docx",
+      "pdf": "/Users/cj/Documents/Resume/resume-builder/out/2026-10-07_hii-mission-technologies_systems/Chris_Norton_Systems_Integration_Engineer_Resume.pdf"
+    },
+    "cover": {
+      "letter": "cl-systems-a",
+      "role": "IT Desktop Systems Admin",
+      "proof": [
+        [
+          "carrier-sfmc",
+          "nyl-sf-automation"
+        ],
+        [
+          "n8n-server",
+          "ess-automation"
+        ],
+        [
+          "carrier-loadtest",
+          "carrier-monitoring",
+          "carrier-dataviz"
+        ],
+        [
+          "pp-aws",
+          "doomscroll-infra",
+          "doomscroll-oidc",
+          "doomscroll-cicd"
+        ]
+      ],
+      "why": "I like how you guys seem to be involved in different industries that work with US military. In particular, your data and cyber initiatives are things that I would be interested in. I have a lot of tech skills and engineering skills that I would position me to grow into more impactful roles down the line.",
+      "files": {
+        "docx": "/Users/cj/Documents/Resume/resume-builder/out/2026-10-07_hii-mission-technologies_systems/Chris_Norton_Systems_Integration_Engineer_Cover_Letter.docx",
+        "pdf": "/Users/cj/Documents/Resume/resume-builder/out/2026-10-07_hii-mission-technologies_systems/Chris_Norton_Systems_Integration_Engineer_Cover_Letter.pdf"
+      }
+    },
+    "status": "applied"
+  },
+  {
+    "timestamp": "2026-10-14T19:52:35",
+    "preset": "systems",
+    "headline": "Systems / Integration Engineer",
+    "company": "Metro Ministries",
+    "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4476587",
+    "boost": [
+      "api",
+      "campaign-optimization",
+      "data",
+      "least-privilege",
+      "powerbi",
+      "python",
+      "rest-api",
+      "signal-processing",
+      "sql",
+      "tableau"
+    ],
+    "pages": 2,
+    "dropped": [],
+    "bullets": [
+      "freelance-travel",
+      "ess-automation",
+      "ess-webdev-lead",
+      "nyl-sf-automation",
+      "carrier-sfmc",
+      "carrier-loadtest",
+      "carrier-monitoring",
+      "transact-web",
+      "java-security",
+      "java-asg",
+      "pp-aws",
+      "pp-azure",
+      "n8n-server",
+      "fga-model",
+      "fga-integration",
+      "realestate-analytics",
+      "realestate-dashboard",
+      "marketing-dashboard",
+      "marketing-analytics"
+    ],
+    "files": {
+      "docx": "/Users/cj/Documents/Resume/resume-builder/out/2026-10-14_metro-ministries_systems/Chris_Norton_Systems_Integration_Engineer_Resume.docx",
+      "pdf": "/Users/cj/Documents/Resume/resume-builder/out/2026-10-14_metro-ministries_systems/Chris_Norton_Systems_Integration_Engineer_Resume.pdf"
+    },
+    "cover": {
+      "letter": "cl-systems-a",
+      "role": "Manager, Innovation and Data Analytics",
+      "proof": [
+        [
+          "carrier-sfmc",
+          "nyl-sf-automation"
+        ],
+        [
+          "n8n-server",
+          "ess-automation"
+        ],
+        [
+          "carrier-loadtest",
+          "carrier-monitoring",
+          "carrier-dataviz"
+        ],
+        [
+          "pp-aws",
+          "doomscroll-infra",
+          "doomscroll-oidc",
+          "doomscroll-cicd"
+        ]
+      ],
+      "why": "I am particularly interested in this company's effort to build the Tampa Bay community with providing homes for the homeless, helping children or providing food. Being able to optimize KPI's for donors that help in that effort would be an honor.",
+      "files": {
+        "docx": "/Users/cj/Documents/Resume/resume-builder/out/2026-10-14_metro-ministries_systems/Chris_Norton_Systems_Integration_Engineer_Cover_Letter.docx",
+        "pdf": "/Users/cj/Documents/Resume/resume-builder/out/2026-10-14_metro-ministries_systems/Chris_Norton_Systems_Integration_Engineer_Cover_Letter.pdf"
+      }
+    },
+    "status": "applied"
+  },
+  {
+    "timestamp": "2026-10-14T23:04:45",
+    "preset": "devops",
+    "headline": "DevOps & Cloud Engineer",
+    "company": "DMSi",
+    "url": null,
+    "boost": [],
+    "pages": 2,
+    "dropped": [
+      "portfolio-platform",
+      "doomscroll-oidc",
+      "doomscroll-boundary",
+      "doomscroll-state",
+      "doomscroll-cicd",
+      "doomscroll-ingestion",
+      "fga-integration",
+      "fga-deploy",
+      "pp-firmware",
+      "pp-azure",
+      "pp-mobile",
+      "hil-tests",
+      "hil-builds"
+    ],
+    "bullets": [
+      "ess-vps",
+      "ess-automation",
+      "carrier-loadtest",
+      "carrier-monitoring",
+      "transact-azure",
+      "transact-network",
+      "hil-pipeline",
+      "java-4tier",
+      "java-asg",
+      "pp-aws",
+      "n8n-server",
+      "fga-model",
+      "doomscroll-infra"
+    ],
+    "files": {
+      "docx": "/Users/cj/Documents/Resume/resume-builder/out/2026-10-14_dmsi_devops/Chris_Norton_DevOps_Cloud_Engineer_Resume.docx",
+      "pdf": "/Users/cj/Documents/Resume/resume-builder/out/2026-10-14_dmsi_devops/Chris_Norton_DevOps_Cloud_Engineer_Resume.pdf"
+    },
+    "cover": null,
+    "status": "applied"
+  },
+  {
+    "timestamp": "2026-10-15T14:09:44",
+    "preset": "embedded",
+    "headline": "Electrical Engineer",
+    "company": "Black Diamond Networks",
+    "url": null,
+    "boost": [],
+    "pages": 2,
+    "dropped": [
+      "hil-builds",
+      "hdmi-logic",
+      "hdmi-uart",
+      "pp-team",
+      "pp-azure",
+      "pp-mobile",
+      "pp-reliability",
+      "pk-audit",
+      "transact-dotnet",
+      "transact-arch-review",
+      "transact-embedded-troubleshoot",
+      "carrier-dataviz",
+      "carrier-jira",
+      "ess-infra-godaddy"
+    ],
+    "bullets": [
+      "ess-automation",
+      "ess-seo-software",
+      "carrier-loadtest",
+      "carrier-monitoring",
+      "transact-azure",
+      "transact-network",
+      "pp-aws",
+      "pp-firmware",
+      "pp-pcb",
+      "hdmi-pipeline",
+      "hil-pipeline",
+      "hil-tests",
+      "pk-design",
+      "pk-encoder"
+    ],
+    "files": {
+      "docx": "/Users/cj/Documents/Resume/resume-builder/out/2026-10-15_black-diamond-networks_embedded/Chris_Norton_Electrical_Engineer_Resume.docx",
+      "pdf": "/Users/cj/Documents/Resume/resume-builder/out/2026-10-15_black-diamond-networks_embedded/Chris_Norton_Electrical_Engineer_Resume.pdf"
+    },
+    "cover": null,
+    "status": "applied"
+  },
+  {
+    "timestamp": "2026-10-26T13:17:31",
+    "preset": "martech",
+    "headline": "Web Developer | Email Developer | SEO",
+    "company": "Olgoonik Corporation",
+    "url": "https://www.ziprecruiter.com/job-redirect/share?match_token=CpQBChYwdThpOEhXX0tnRnVOYXZCWEtJSlNREiQwMWExNzkyYi05ZWMxLTc2M2UtYjU4OS00NTdmZDhjMzMwYzgaUEFBR1RnNFRyZWZhZC1RTmRBNHhpdDh5Y1ZpWEVwTnlUcHE2M0JqaEZ0dUY5N1NYTXdIRkZGRlQ5RHV0VVNOV1paTmRINnpqMHpHa0d3MjVOIKjYAhABGNatBQ%3D%3D&tsid=100000404",
+    "boost": [],
+    "pages": 2,
+    "dropped": [],
+    "bullets": [
+      "ess-webdev-lead",
+      "ess-seo-software",
+      "ess-brevo",
+      "ess-keyword-research",
+      "ess-infra-godaddy",
+      "ckm-engagement",
+      "ckm-automation",
+      "ast-sub",
+      "salon-mailchimp",
+      "ast-store",
+      "carrier-sfmc",
+      "carrier-loadtest",
+      "carrier-email",
+      "carrier-dataviz",
+      "carrier-jira",
+      "transact-azure",
+      "transact-web",
+      "transact-wireframes",
+      "transact-gtm",
+      "n8n-server",
+      "portfolio-platform",
+      "realestate-dashboard",
+      "realestate-analytics",
+      "marketing-dashboard",
+      "marketing-analytics"
+    ],
+    "files": {
+      "docx": "/Users/cj/Documents/Resume/resume-builder/out/2026-10-26_olgoonik-corporation_martech/Chris_Norton_Web_Developer_Email_Developer_SEO_Resume.docx",
+      "pdf": "/Users/cj/Documents/Resume/resume-builder/out/2026-10-26_olgoonik-corporation_martech/Chris_Norton_Web_Developer_Email_Developer_SEO_Resume.pdf"
+    },
+    "cover": {
+      "letter": "cl-martech-a",
+      "role": "Web Developer | Email Developer | SEO",
+      "proof": [
+        [
+          "ckm-engagement",
+          "ckm-automation"
+        ],
+        [
+          "carrier-email",
+          "carrier-sfmc"
+        ],
+        [
+          "ess-seo-software",
+          "ess-keyword-research",
+          "ess-webdev-lead"
+        ],
+        [
+          "ast-sub",
+          "ast-store"
+        ]
+      ],
+      "why": "The Technical Writer position with Olgoonik Corporation combines my passion for translating complex technical information into clear, user-friendly content. My background in technical communication, content development, and working with diverse audiences aligns well with Olgoonik's focus on supporting mission-critical government and commercial projects. I am particularly drawn to the opportunity to contribute to a company known for delivering high-quality professional services while continuing to develop my skills in a collaborative and technically focused environment.",
+      "files": {
+        "docx": "/Users/cj/Documents/Resume/resume-builder/out/2026-10-26_olgoonik-corporation_martech/Chris_Norton_Web_Developer_Email_Developer_SEO_Cover_Letter.docx",
+        "pdf": "/Users/cj/Documents/Resume/resume-builder/out/2026-10-26_olgoonik-corporation_martech/Chris_Norton_Web_Developer_Email_Developer_SEO_Cover_Letter.pdf"
+      }
+    },
+    "status": "applied"
+  }
+]
